@@ -4,7 +4,7 @@ api: [1.0.0]
 author: anjing
 main: Nkeep\Main
 description: "自定义开启死亡物品不掉落和死亡经验不掉落"
- 
+
 commands:
  keepinventory:
   description: 死亡物品掉落设置
