@@ -1,9 +1,9 @@
 name: Nkeep
 version: 1.0.0
-api:[1.0.0]
+api: [1.0.0]
 author: anjing
 main: Nkeep\Main
-descriprtion: "自定义死亡物品不掉落和死亡经验不掉落"
+description: "自定义开启死亡物品不掉落和死亡经验不掉落"
  
 commands:
  keepinventory:
